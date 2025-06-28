@@ -38,16 +38,7 @@ This project analyzes employee attrition trends at Green Destinations, a travel 
 
 ---
 
-## 🚀 How to Run
-
-1. Download or clone the repository.
-2. Open `notebooks/attrition_analysis.py` in your IDE or run it using a Jupyter notebook.
-3. View the charts in the `images/` folder.
-4. Open the final presentation in the `presentation/` folder.
-
----
-
 ## 📬 Contact
 
-Created by [Your Name] – feel free to connect on [LinkedIn](your-link) or explore other projects!
+Created by Aman Khan – feel free to connect on [LinkedIn]([your-link](https://www.linkedin.com/in/aman-khan-353723229/)) or explore other projects!
 
