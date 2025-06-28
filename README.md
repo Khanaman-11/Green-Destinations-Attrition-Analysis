@@ -15,7 +15,6 @@ This project analyzes employee attrition trends at Green Destinations, a travel 
 - Python (Pandas, Matplotlib, Seaborn)
 - PowerPoint
 - Visual Studio Code
-- Excel (optional)
 
 ## 📁 Project Structure
 
